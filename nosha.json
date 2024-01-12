@@ -6,5 +6,5 @@
     "DFFlagDebugPauseVoxelizer": true,
     "FFlagNewLightAttenuation": true,
     "FIntRenderShadowIntensity": 0,
-    "FFlagDisablePostFx": true,
+    "FFlagDisablePostFx": true
 }
